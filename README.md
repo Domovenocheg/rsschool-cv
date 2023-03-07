@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool
+https://domovenocheg.github.io/rsschool-cv/
